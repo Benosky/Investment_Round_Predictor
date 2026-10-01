@@ -83,6 +83,10 @@ Examples of the request bodies are:
   ]
 }``` -- For batch prediction.
 
+<img width="1000" height="473" alt="Screenshot 2026-10-01 at 2 02 26 PM" src="https://github.com/user-attachments/assets/400cb92d-c21f-4440-bc7d-2f448a26445a" />
 
+<img width="1000" height="491" alt="Screenshot 2026-10-01 at 2 03 01 PM" src="https://github.com/user-attachments/assets/4bf7fc20-67b3-4570-926c-bf67672d958d" />
+
+<img width="1001" height="372" alt="Screenshot 2026-10-01 at 2 03 46 PM" src="https://github.com/user-attachments/assets/3973b04b-6535-451b-a79b-03177ae14cd2" />
 
 
