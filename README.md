@@ -66,7 +66,8 @@ Examples of the request bodies are:
   "fundedDate": "1-May-01",
   "raisedAmt": 2000000,
   "raisedCurrency": "USD"
-}``` - For single prediction,
+} - For single prediction,
+```
 
 
 ```{
@@ -81,7 +82,8 @@ Examples of the request bodies are:
   "raisedCurrency": "USD"
 }
   ]
-}``` -- For batch prediction.
+} -- For batch prediction.
+```
 
 
 ### 5. Endpoints demo
