@@ -88,4 +88,8 @@ Examples of the request bodies are:
 
 <img width="2000" height="946" alt="image" src="https://github.com/user-attachments/assets/d24fde68-8578-4fcc-9aa4-c532dd981b11" />
 
+<img width="2000" height="982" alt="image" src="https://github.com/user-attachments/assets/3340c4b7-d491-4a1e-a862-a979e7db631e" />
+
+<img width="2002" height="744" alt="image" src="https://github.com/user-attachments/assets/029f7b17-7330-4636-a6a2-596a5c93945c" />
+
 
