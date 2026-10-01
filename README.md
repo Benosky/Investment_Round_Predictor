@@ -86,10 +86,11 @@ Examples of the request bodies are:
 
 ### 5. Endpoints demo
 
-<img width="2000" height="946" alt="image" src="https://github.com/user-attachments/assets/d24fde68-8578-4fcc-9aa4-c532dd981b11" />
+<img width="1000" height="473" alt="endpoint_input_layer" src="https://github.com/user-attachments/assets/e7951213-1b48-4ad7-911d-6e66178a4fee" />
 
-<img width="2000" height="982" alt="image" src="https://github.com/user-attachments/assets/3340c4b7-d491-4a1e-a862-a979e7db631e" />
+<img width="1000" height="491" alt="endpoint_input_payload" src="https://github.com/user-attachments/assets/95f00bb4-23bb-4fbe-9bc1-da6522503060" />
 
-<img width="2002" height="744" alt="image" src="https://github.com/user-attachments/assets/029f7b17-7330-4636-a6a2-596a5c93945c" />
+<img width="1001" height="372" alt="endpoint_output" src="https://github.com/user-attachments/assets/1090c015-9fca-4201-a42e-76c2f1ee3625" />
+
 
 
